@@ -19,8 +19,7 @@ public class T01 {
             String title = driver.getTitle();
             if (title.equals("video")) {
                 System.out.println("Title contains the word 'video'. Test passed!");
-            }
-            else {
+            } else {
                 System.err.println("Title does not contain the word 'video'. Test failed!");
             }
 
