@@ -34,7 +34,7 @@ public class T32_RobotClass extends TestBase {
 //         * Verify login success or error message.
         String resultText = driver.findElement(By.id("flash-messages")).getText();
         System.out.println("login text: " + resultText);
-        Assertions.assertEquals("You logged into a secure area!", resultText);
+      Assertions.assertEquals("You logged into a secure area!", resultText);
 
 
     }
