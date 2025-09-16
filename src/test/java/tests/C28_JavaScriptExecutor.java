@@ -3,6 +3,7 @@ package tests;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import utilities.JSUtils;
 import utilities.TestBase;
 
 public class C28_JavaScriptExecutor extends TestBase {
