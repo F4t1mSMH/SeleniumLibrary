@@ -1,0 +1,33 @@
+22:48:22 [main] [32mINFO [m [34mChrome browser is initialized ...[m
+22:50:26 [main] [32mINFO [m [34mChrome browser is initialized.[m
+22:50:28 [main] [32mINFO [m [34mNavigated to URL[m
+22:51:35 [main] [32mINFO [m [34mLogged in as standard user.[m
+22:51:35 [main] [32mINFO [m [34mLogin successful. Verified presence of product page title.[m
+22:51:35 [main] [32mINFO [m [34mSorted products by price from low to high.[m
+22:51:37 [main] [32mINFO [m [34mChrome browser is closed.[m
+23:03:30 [main] [32mINFO [m [34mChrome browser is initialized.[m
+23:03:32 [main] [32mINFO [m [34mNavigated to URL[m
+23:04:35 [main] [32mINFO [m [34mLogged in as standard user.[m
+23:04:35 [main] [32mINFO [m [34mLogin successful. Verified presence of product page title.[m
+23:04:35 [main] [32mINFO [m [34mSorted products by price from low to high.[m
+23:04:37 [main] [32mINFO [m [34mChrome browser is closed.[m
+23:12:18 [main] [32mINFO [m [34mChrome browser is initialized.[m
+23:12:20 [main] [32mINFO [m [34mNavigated to URL[m
+23:13:19 [main] [32mINFO [m [34mLogged in as standard user.[m
+23:13:19 [main] [32mINFO [m [34mLogin successful. Verified presence of product page title.[m
+23:13:19 [main] [32mINFO [m [34mSorted products by price from low to high.[m
+23:13:21 [main] [32mINFO [m [34mChrome browser is closed.[m
+23:18:24 [main] [32mINFO [m [34mChrome browser is initialized.[m
+23:18:26 [main] [32mINFO [m [34mNavigated to URL[m
+23:19:15 [main] [32mINFO [m [34mLogged in as standard user.[m
+23:19:15 [main] [32mINFO [m [34mLogin successful. Verified presence of product page title.[m
+23:19:15 [main] [32mINFO [m [34mSorted products by price from low to high.[m
+23:19:18 [main] [32mINFO [m [34mCaptured screenshots of lowest and highest priced products.[m
+23:19:29 [main] [32mINFO [m [34mChrome browser is closed.[m
+23:19:52 [main] [32mINFO [m [34mChrome browser is initialized.[m
+23:19:53 [main] [32mINFO [m [34mNavigated to URL[m
+23:20:42 [main] [32mINFO [m [34mLogged in as standard user.[m
+23:20:42 [main] [32mINFO [m [34mLogin successful. Verified presence of product page title.[m
+23:20:42 [main] [32mINFO [m [34mSorted products by price from low to high.[m
+23:20:45 [main] [32mINFO [m [34mCaptured screenshots of lowest and highest priced products.[m
+23:20:56 [main] [32mINFO [m [34mChrome browser is closed.[m
